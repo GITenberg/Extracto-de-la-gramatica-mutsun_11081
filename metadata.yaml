@@ -1,0 +1,35 @@
+_repo: Extracto-de-la-gramatica-mutsun_11081
+_version: 0.0.1
+alternative_title: Grammar of the Mutsun Language, Spoken at the  Mission of San Juan
+  Bautista, Alta California
+creator:
+  author:
+    agent_name: Arroyo de la Cuesta, Felipe
+    aliases:
+    - La Cuesta, Felipe Arroyo de
+    - De la Cuesta, Felipe Arroyo
+    - Cuesta, Felipe Arroyo de la
+    deathdate: 1842
+    gutenberg_agent_id: '3830'
+    url: http://www.gutenberg.org/2009/agents/3830
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Language Education
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11081'
+language:
+- es
+- nai
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Catalan language -- Texts'
+- !lcsh 'Mutsun dialect -- Grammar'
+- GITenberg
+title: Extracto de la gramatica mutsun
+url: http://www.gutenberg.org/ebooks/11081
